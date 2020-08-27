@@ -1,6 +1,6 @@
 # loan_prediction
 
-Welcome to this course on Loan Prediction Practice Problem. 
+Welcome to this project on Loan Prediction Practice Problem. 
 
 Objective:
 
